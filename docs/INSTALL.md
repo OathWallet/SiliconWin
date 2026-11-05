@@ -75,7 +75,7 @@ SiliconWin is written in Swift and needs Apple's compiler.
 
 ```bash
 mkdir -p ~/Developer && cd ~/Developer
-git clone https://github.com/devdasx/SiliconWin.git
+git clone https://github.com/OathWallet/SiliconWin.git
 cd SiliconWin
 ```
 

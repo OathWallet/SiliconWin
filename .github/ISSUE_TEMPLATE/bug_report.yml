@@ -5,9 +5,9 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to report a bug. Please search the [existing issues](https://github.com/devdasx/SiliconWin/issues) and the [troubleshooting guide](https://github.com/devdasx/SiliconWin/blob/main/docs/TROUBLESHOOTING.md) first.
+        Thanks for taking the time to report a bug. Please search the [existing issues](https://github.com/OathWallet/SiliconWin/issues) and the [troubleshooting guide](https://github.com/OathWallet/SiliconWin/blob/main/docs/TROUBLESHOOTING.md) first.
 
-        **Security vulnerabilities:** please don't use this form. Report them privately as described in [SECURITY.md](https://github.com/devdasx/SiliconWin/blob/main/SECURITY.md).
+        **Security vulnerabilities:** please don't use this form. Report them privately as described in [SECURITY.md](https://github.com/OathWallet/SiliconWin/blob/main/SECURITY.md).
 
   - type: textarea
     id: problem

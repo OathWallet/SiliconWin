@@ -52,5 +52,5 @@ The first public release.
 - The guest agent and its SYSTEM relay update themselves only from the SILICONWIN disc that the app attaches, which is an emulated QEMU CD drive. Before this change, a newer script on any drive was accepted, so a disc image mounted inside Windows could have run code as SYSTEM.
 - Clipboard sharing never sends items that password managers mark as concealed or transient (`org.nspasteboard.ConcealedType`, `org.nspasteboard.TransientType`).
 
-[Unreleased]: https://github.com/devdasx/SiliconWin/compare/v1.0.0...HEAD
-[1.0.0]: https://github.com/devdasx/SiliconWin/releases/tag/v1.0.0
+[Unreleased]: https://github.com/OathWallet/SiliconWin/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/OathWallet/SiliconWin/releases/tag/v1.0.0

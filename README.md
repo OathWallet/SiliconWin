@@ -10,7 +10,7 @@ SiliconWin is a native macOS app that downloads, installs and runs Windows 11 on
 It uses Apple's Hypervisor framework with its own builds of QEMU, the UEFI firmware and a TPM 2.0 emulator.<br>
 It's a free, open-source alternative to Parallels Desktop, VMware Fusion and UTM for running Windows on a Mac.
 
-[![CI](https://github.com/devdasx/SiliconWin/actions/workflows/ci.yml/badge.svg)](https://github.com/devdasx/SiliconWin/actions/workflows/ci.yml)
+[![CI](https://github.com/OathWallet/SiliconWin/actions/workflows/ci.yml/badge.svg)](https://github.com/OathWallet/SiliconWin/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![macOS 14+](https://img.shields.io/badge/macOS-14%2B-000000?logo=apple&logoColor=white)](#requirements)
 [![Apple silicon](https://img.shields.io/badge/Apple%20silicon-arm64-555555)](#requirements)
@@ -78,7 +78,7 @@ brew install glib pixman libpng zstd llvm lld openssl@3 gnutls libtasn1 \
              autoconf automake libtool pkgconf
 
 # 2. Clone and build
-git clone https://github.com/devdasx/SiliconWin.git
+git clone https://github.com/OathWallet/SiliconWin.git
 cd SiliconWin
 Scripts/build-app.sh          # → dist/SiliconWin.app
 

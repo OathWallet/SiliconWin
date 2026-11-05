@@ -1,6 +1,6 @@
 # Troubleshooting
 
-If the answer isn't here, please [open an issue](https://github.com/devdasx/SiliconWin/issues/new/choose) and attach the relevant [logs](#log-files).
+If the answer isn't here, please [open an issue](https://github.com/OathWallet/SiliconWin/issues/new/choose) and attach the relevant [logs](#log-files).
 
 - [Log files](#log-files)
 - [Starting and installing](#starting-and-installing)
